@@ -54,7 +54,7 @@
 <h2><span style="color: #123456;"><strong>Middle School Orchestra Helper&nbsp;</strong>&mdash; <em>2018</em></span></h2>
 <p><span style="color: #123456;"><em>~6 hours total</em></span></p>
 <h2><span style="color: #123456;"><strong>Grandfriends Helper&nbsp;</strong>&mdash; <em>2018-2020</em></span></h2>
-<p><span style="color: #123456;"><em>1 hour per year</em></span></p>
+<p><span style="color: #123456;"><em>2 hours total</em></span></p>
 <h2><span style="color: #123456;"><strong>National Technical Honor Society Helper</strong>&mdash; <em>2019-2020</em></span></h2>
 <p><span style="color: #123456;"><em>5 hours total</em></span></p>
 <p><span style="color: #123456;">&nbsp;</span></p>
