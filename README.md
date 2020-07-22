@@ -1,4 +1,4 @@
-<table style="width: 700px; background-color: #fbfffb; margin-left: auto; margin-right: auto;">
+<table style="width: 700px; background-color:#fffcfa; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
 <td style="width: 340.00px;">
