@@ -2,7 +2,6 @@
 <tbody>
 <tr>
 <td style="width: 340.00px;">
-  
 <h1><strong>Olivia Perez</strong></h1>
 <p>&nbsp;</p>
 </td>
@@ -34,14 +33,13 @@
 <h1>HONOR SOCIETIES</h1>
 <h2><strong>Spanish Honor Society&nbsp;</strong>&mdash; <em>2019-2021</em></h2>
 <h2><strong>National Technical Honor Society&nbsp;</strong>&mdash; <em>2020-2021</em></h2>
+<p>&nbsp;</p>
 <h1><strong>AWARDS</strong></h1>
 <p><strong>Pathways publish </strong>2018</p>
 <p><strong>Etchings publish </strong>2019</p>
 <p><strong>NCWIT Honorary Mention&nbsp;</strong>2020</p>
-<p>&nbsp;</p>
 </td>
 <td>
-<p>&nbsp;</p>
 <h1>VOLUNTEER SERVICE</h1>
 <h2><strong>Long Island Harvest&nbsp;</strong>&mdash; <em>2015-2020</em></h2>
 <p><em>~11 hours total</em></p>
@@ -65,6 +63,7 @@
 <li><span>Leadership</span></li>
 <li>Good with kids</li>
 </ul>
+<p>&nbsp;</p>
 <h1><strong>LANGUAGES</strong></h1>
 <ul>
 <li><span>English (native)</span></li>
@@ -75,4 +74,3 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
