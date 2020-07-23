@@ -36,7 +36,7 @@
 
 <h1><span style="color: #ffffff;">CLUBS</span></h1>
 <h2><span style="color: #ffffff;"><strong>Pathways&nbsp;</strong>&mdash; <em>2017</em></span></h2>
-<p><span style="color: #ffffff;">I was an Officer.</span></p>
+<p><span style="color: #ffffff;">I was the assistant editor.</span></p>
 <h2><span style="color: #ffffff;"><strong>Computer Club&nbsp;</strong>&mdash; <em>2017-2021</em></span></h2>
 <h2><span style="color: #ffffff;"><strong>Future Engineers&nbsp;</strong>&mdash; <em>2018-2021</em></span></h2>
 <p>&nbsp;</p>
