@@ -14,7 +14,7 @@
 </tr>
 <tr>
 <td style="width: 335.00px;">
-<h1><span style="color: #ffffff;"><strong>EXPERIENCE</strong></span></h1>
+<h1><span style="color: #ffffff;"><strong>WORK EXPERIENCE</strong></span></h1>
 <h2><span style="color: #ffffff;"><strong>Millenium Martial Arts, Haupauge, NY</strong><span style="font-weight: 400;">&nbsp;&mdash; <em>Instructor</em></span></span></h2>
 <h3><span style="font-weight: 400; color: #ffffff;">October 2019 - PRESENT</span></h3>
 <p><span style="color: #ffffff;">Teach kids 1-on-1 and control groups of kids.</span></p>
