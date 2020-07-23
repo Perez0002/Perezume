@@ -41,19 +41,19 @@
 </td>
 <td>
 <h1><span style="color: #ffffff;">VOLUNTEER SERVICE</span></h1>
-<h2><span style="color: #ffffff;"><strong>Long Island Harvest;</strong>&mdash; <em>2015-2020</em></span></h2>
+<h2><span style="color: #ffffff;"><strong>Long Island Harvest</strong>&mdash; <em>2015-2020</em></span></h2>
 <p><span style="color: #ffffff;"><em>~11 hours total</em></span></p>
-<h2><span style="color: #ffffff;"><strong>Commack Public Library;</strong>&mdash; <em>2017-2020</em></span></h2>
+<h2><span style="color: #ffffff;"><strong>Commack Public Library</strong>&mdash; <em>2017-2020</em></span></h2>
 <p><span style="color: #ffffff;"><em>7.5 hours total</em></span></p>
-<h2><span style="color: #ffffff;"><strong>St. Matthew's Volunteer;</strong>&mdash; <em>2017</em></span></h2>
+<h2><span style="color: #ffffff;"><strong>St. Matthew's Volunteer</strong>&mdash; <em>2017</em></span></h2>
 <p><span style="color: #ffffff;"><em>40 hours total</em></span></p>
 <h2><span style="color: #ffffff;"><strong>Christ The King Soup Kitchen&nbsp;</strong>&mdash; <em>2017</em></span></h2>
 <p><span style="color: #ffffff;"><em>2 hours total</em></span></p>
-<h2><span style="color: #ffffff;"><strong>Commack Coalition of Caring;</strong>&mdash; <em>2017-2018</em></span></h2>
+<h2><span style="color: #ffffff;"><strong>Commack Coalition of Caring</strong>&mdash; <em>2017-2018</em></span></h2>
 <p><span style="color: #ffffff;"><em>6.5 hours total</em></span></p>
-<h2><span style="color: #ffffff;"><strong>Middle School Orchestra Helper;</strong>&mdash; <em>2018</em></span></h2>
+<h2><span style="color: #ffffff;"><strong>Middle School Orchestra Helper</strong>&mdash; <em>2018</em></span></h2>
 <p><span style="color: #ffffff;"><em>~6 hours total</em></span></p>
-<h2><span style="color: #ffffff;"><strong>Grandfriends Helper;</strong>&mdash; <em>2018-2020</em></span></h2>
+<h2><span style="color: #ffffff;"><strong>Grandfriends Helper</strong>&mdash; <em>2018-2020</em></span></h2>
 <p><span style="color: #ffffff;"><em>2 hours total</em></span></p>
 <h2><span style="color: #ffffff;"><strong>National Technical Honor Society Helper</strong>&mdash; <em>2019-2020</em></span></h2>
 <p><span style="color: #ffffff;"><em>5 hours total</em></span></p>
