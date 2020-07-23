@@ -3,12 +3,12 @@
   
 <tr>
 
-<td style="width: 340.00px;">
+<td style="width: 400.00px;">
 <h1><span style="font-weight: 500; color: #ffffff;"><strong>Olivia Perez</strong></span></h1>
 <p>&nbsp;</p>
 </td>
 
-<td style="width: 345.00px;">
+<td style="width: 400.00px;">
 <p style="text-align: right;"><span style="color: #ffffff;">54 McLane Court</span></p>
 <p style="text-align: right;"><span style="color: #ffffff;">Dix Hills, NY 11746</span></p>
 <p style="text-align: right;"><span style="color: #ffffff;"><strong>(631) 316-7897</strong></span></p>
@@ -20,7 +20,7 @@
 
 <tr>
   
-<td style="width: 335.00px;">
+<td style="width: 400.00px;">
   
 <h1><span style="color: #ffffff;"><strong>WORK EXPERIENCE</strong></span></h1>
 <h2><span style="color: #ffffff;"><strong>Millenium Martial Arts, Haupauge, NY</strong><span style="font-weight: 400;">&nbsp;&mdash; <em>Instructor</em></span></span></h2>
