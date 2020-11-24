@@ -23,7 +23,7 @@
 <td style="width: 500.00px;">
   
 <h1><span style="color: #ffffff;"><strong>WORK EXPERIENCE</strong></span></h1>
-<h2><span style="color: #ffffff;"><strong>Millenium Martial Arts, Haupauge, NY</strong><span style="font-weight: 400;">&nbsp;&mdash; <em>Instructor</em></span></span></h2>
+<h2><span style="color: #ffffff;"><strong>Millenium Martial Arts, Hauppauge, NY</strong><span style="font-weight: 400;">&nbsp;&mdash; <em>Instructor</em></span></span></h2>
 <h3><span style="font-weight: 400; color: #ffffff;">October 2019 - PRESENT</span></h3>
 <p><span style="color: #ffffff;">Teach kids 1-on-1 and in groups.</span></p>
 <p>&nbsp;</p>
@@ -37,8 +37,8 @@
 <h1><span style="color: #ffffff;">CLUBS</span></h1>
 <h2><span style="color: #ffffff;"><strong>Pathways&nbsp;</strong>&mdash; <em>2017</em></span></h2>
 <p><span style="color: #ffffff;">I was the assistant editor.</span></p>
-<h2><span style="color: #ffffff;"><strong>Computer Club&nbsp;</strong>&mdash; <em>2017-2021</em></span></h2>
-<h2><span style="color: #ffffff;"><strong>Future Engineers&nbsp;</strong>&mdash; <em>2018-2021</em></span></h2>
+<h2><span style="color: #ffffff;"><strong>Computer Club&nbsp;</strong>&mdash; <em>2017-2020</em></span></h2>
+<h2><span style="color: #ffffff;"><strong>Future Engineers&nbsp;</strong>&mdash; <em>2018-2020</em></span></h2>
 <p>&nbsp;</p>
 
 <h1><span style="color: #ffffff;">HONOR SOCIETIES</span></h1>
@@ -57,21 +57,21 @@
   
 <h1><span style="color: #ffffff;">VOLUNTEER SERVICE</span></h1>
 <h2><span style="color: #ffffff;"><strong>Long Island Harvest</strong>&mdash; <em>2015-2020</em></span></h2>
-<p><span style="color: #ffffff;"><em>~11 hours total</em></span></p>
+
 <h2><span style="color: #ffffff;"><strong>Commack Public Library</strong>&mdash; <em>2017-2020</em></span></h2>
-<p><span style="color: #ffffff;"><em>7.5 hours total</em></span></p>
+
 <h2><span style="color: #ffffff;"><strong>St. Matthew's Volunteer</strong>&mdash; <em>2017</em></span></h2>
-<p><span style="color: #ffffff;"><em>40 hours total</em></span></p>
+
 <h2><span style="color: #ffffff;"><strong>Christ The King Soup Kitchen&nbsp;</strong>&mdash; <em>2017</em></span></h2>
-<p><span style="color: #ffffff;"><em>2 hours total</em></span></p>
+
 <h2><span style="color: #ffffff;"><strong>Commack Coalition of Caring</strong>&mdash; <em>2017-2018</em></span></h2>
-<p><span style="color: #ffffff;"><em>6.5 hours total</em></span></p>
+
 <h2><span style="color: #ffffff;"><strong>Middle School Orchestra Helper</strong>&mdash; <em>2018</em></span></h2>
-<p><span style="color: #ffffff;"><em>~6 hours total</em></span></p>
+
 <h2><span style="color: #ffffff;"><strong>Grandfriends Helper</strong>&mdash; <em>2018-2020</em></span></h2>
-<p><span style="color: #ffffff;"><em>2 hours total</em></span></p>
+
 <h2><span style="color: #ffffff;"><strong>National Technical Honor Society Helper</strong>&mdash; <em>2019-2020</em></span></h2>
-<p><span style="color: #ffffff;"><em>5 hours total</em></span></p>
+
 <p>&nbsp;</p>
 
 <h1><span style="color: #ffffff;"><strong>SKILLS</strong></span></h1>
@@ -85,7 +85,6 @@
 <h1><span style="color: #ffffff;"><strong>LANGUAGES</strong></span></h1>
 <p><span style="color: #ffffff;">English (native)</span></p>
 <p><span style="color: #ffffff;">Spanish (intermediate)</span></p>
-<p><span style="color: #ffffff;">Swedish (beginner)</span></p>
   
 </td>
 
