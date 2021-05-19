@@ -43,13 +43,14 @@
 
 <h1><span style="color: #ffffff;">HONOR SOCIETIES</span></h1>
 <h2><span style="color: #ffffff;"><strong>Spanish Honor Society&nbsp;</strong>&mdash; <em>2019-2021</em></span></h2>
-<h2><span style="color: #ffffff;"><strong>National Technical Honor Society&nbsp;</strong>&mdash; <em>2020-2021</em></span></h2>
+<h2><span style="color: #ffffff;"><strong>National Technical Honor Society&nbsp;</strong>&mdash; <em>2020-present</em></span></h2>
 <p>&nbsp;</p>
 
 <h1><span style="color: #ffffff;"><strong>RECOGNITION</strong></span></h1>
 <p><span style="color: #ffffff;"><strong>Pathways publish </strong>&mdash; <em>2018</em></span></p>
 <p><span style="color: #ffffff;"><strong>Etchings publish </strong>&mdash; <em>2019</em></span></p>
 <p><span style="color: #ffffff;"><strong>NCWIT Honorary Mention&nbsp;</strong>&mdash; <em>2020</em></span></p>
+ <p><span style="color: #ffffff;"><strong>NCWIT Honorary Mention&nbsp;</strong>&mdash; <em>2021</em></span></p>
 
 </td>
 
